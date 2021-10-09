@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name Is Fajri
 #### Data Science
-I am quite proficient in python language, I like data science since I started college in 2018 and I always follow, Study Groups, Research Groups and also workshops in the I-smile lab which discuss artificial intelligence and about Data Science , my interest in scientific data, because I love analyzing and calculating since junior high school.
+I am from Indonesia and I am quite proficient in python language, I like data science since I started college in 2018 and I always follow, Study Groups, Research Groups and also workshops in the I-smile lab which discuss artificial intelligence and about Data Science , my interest in scientific data, because I love analyzing and calculating since junior high school.
 
 Skills: Python/ Java/ CSS/ SQL/ HTML
 
