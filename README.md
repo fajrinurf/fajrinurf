@@ -8,7 +8,6 @@ I am Fajri NurFauzan from Indonesia, and I do data visualization, data predictio
 - 📱 Figma/ XD
 
 
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/fajrinurf)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/fajri-nurfauzan-a13090900/)  
-[<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/_lahkokfajri/)  
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/fajrinurf)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/fajri-nurfauzan-a13090900/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/_lahkokfajri/)  
 
 
