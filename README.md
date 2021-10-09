@@ -1,5 +1,5 @@
 # Fajri Nurfauzan
-I am from Indonesia 
+I am Fajri NurFauzan from Indonesia, and I do data visualization, data prediction, data collection, machine learning, deep learning etc. I really enjoy learning languages and frameworks like Python and R, as well as working in Data Science. i also enjoy UI, UX and design in general
 
 ## Skills and Experience 
 - 💻 Python/ Java/ CSS/ SQL/ HTML
