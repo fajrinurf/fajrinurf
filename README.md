@@ -9,6 +9,6 @@ I am Fajri NurFauzan from Indonesia, and I do data visualization, data predictio
 
 ### How To Reach Me
 
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/fajrinurf) [<img src='https://img.icons8.com/nolan/64/gmail.png' alt='gmail' height='40'>](https://mail.google.com/mail/u/1/#drafts?compose=XBcJlJnGrmVCdCDGkdHrZDNCPKPQQStGlgLKsNvVFnGSgmfCkCzPNZktXMdnmKfmZQQBNGJBkqPSZjsQ)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/fajri-nurfauzan-a13090900/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/_lahkokfajri/)  
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/fajrinurf) [<img src='https://img.icons8.com/nolan/64/gmail.png' alt='gmail' height='40'>](mailto:fajriinurfauzan@gmail.com)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/fajri-nurfauzan-a13090900/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/_lahkokfajri/)  
 
 
